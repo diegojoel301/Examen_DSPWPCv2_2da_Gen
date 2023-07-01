@@ -1,0 +1,6 @@
+uvicorn
+fastapi
+jose
+python-jose[cryptography]
+pickle4
+PyJWT
