@@ -1,0 +1,6 @@
+Tenemos el router de la empresa DeepSec el ISP nos dio la IP 215.16.17.0/24
+Tenemos diferentes redes en la primera debera tener soporte para 120 hosts
+para esta primera debera estar si o si en la red un servidor Nodo_1
+para la segunda debera de tener soporte para 50 hosts para esta segunda red
+debera estar si o si presente el Nodo_2, y la ultima red debera tener
+soporte para 10 hosts el cual sera del sector de Marketing
